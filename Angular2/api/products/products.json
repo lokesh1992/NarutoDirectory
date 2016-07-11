@@ -1,0 +1,117 @@
+[
+    {
+        "productId": 1,
+        "name": "Naruto Uzumaki",
+        "personality": "unorthodox",
+        "ability": "Chakra and Physical Prowess,ShadowClown,Ninjutsu",
+        "description": "Master of ShadowClown",
+        "clan":"Uzumaki Clan",
+        "price":25.45,
+        "starRating": 4.8,        
+        "imageUrl": "./app/assets/images/Naruto.jpg"
+    },
+    {
+        "productId": 2,
+        "name":"Sakura Haruno",
+        "personality": "Polite",
+        "ability": "Chakra and Physical Prowess,Medical Ninjutsu",
+        "description": "Master of healing",
+        "clan":"Uzumaki Clan",
+        "price":25.45,
+        "starRating": 4.2,
+        "imageUrl": "./app/assets/images/Sakura.jpg"
+    },
+    {
+        "productId": 3,
+        "name": "Sasuke Uchiha",
+        "personality": "Intelligence",
+        "ability": "Sharingan,Ninjutsu,Nature Transformation",
+        "description": "Master of Evil Magic",
+        "clan":"Uchiha Clan",
+        "price":25.45,
+        "starRating": 4.8,
+        "imageUrl": "./app/assets/images/Sasuke.jpg"
+    },
+    {
+        "productId": 4,
+        "name": "Kakashi Hatake",
+        "personality": "Intuitive",
+        "ability": " Nature Transformation Dojutsu",
+        "description": "Master of Sharingan",
+        "clan":"Hatakea Clan",
+        "price":25.45,
+        "starRating": 4.0,
+        "imageUrl": "./app/assets/images/Kakashi.jpg"
+    },
+    {
+        "productId": 5,
+        "name": "Kiba Inuzuka",
+        "personality": "Short Tempered and Impulsive",
+        "ability": "Inuzuka Clan abilities ,Enchanced Senses",
+        "description": "Master of Physical",
+        "clan":"Inuzuka Clan",
+        "price":25.45,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/Kiba.jpg"
+    }
+    ,
+    {
+        "productId": 6,
+        "name": "Neji Hyuuga",
+        "personality": "serious and cold",
+        "ability": "Byakugan, Taijutsu",
+        "description": "Master of one on one",
+        "clan":"Hyuga Clan",
+        "price":25.45,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/Neji.jpg"
+    }   
+    ,
+    {
+        "productId": 7,
+        "name": "Rock Lee",
+        "personality": "Energetic",
+        "ability": "Taijutsu ,Eight Gates",
+        "description": "Master of Nature Fight",
+         "clan": "Lee Clan",
+         "price":25.45,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/Lee.jpg"
+    }
+    
+    ,
+    {
+        "productId": 8,
+        "name": "Shikamaru Nara",
+        "personality": "Lazy ",
+        "ability": "Nara Clan Techniques",
+        "description": "Master of Nature Fight",
+         "clan": "Nara Clan",
+         "price":25.45,
+        "starRating": 4.6,
+        "imageUrl": "./app/assets/images/Shikamaru.jpg"
+    }
+    ,
+    {
+        "productId": 9,
+        "name": "Hinata Hyūga",
+         "personality": "Soft-Spoken and Polite",
+        "ability": "Byakugan,Taijutusu",
+        "description": "Master of Cutieness",
+         "clan": "Hyuga Clan",
+         "price":25.45,
+        "starRating": 3.8,
+        "imageUrl": "./app/assets/images/Hinata.jpg"
+    },
+    {
+        "productId": 10,
+        "name": "Gaara",
+         "personality": "Warm to others",
+        "ability": "Jinchuriki Tranformation",
+        "description": "Master of Sand Manipulation",
+         "clan": "Kazekage Clan",
+         "price":25.45,
+        "starRating": 4.9,
+        "imageUrl": "./app/assets/images/gaara11.jpg"
+    }
+]
